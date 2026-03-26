@@ -1,0 +1,10 @@
+{
+    "name": "AI Character Generator",
+    "display_name": "👾 AI人设生成器",
+    "version": "1.0.0",
+    "author": "你",
+    "description": "根据简单设定，自动生成完整角色卡/用户卡，支持自定义API",
+    "js": "index.js",
+    "css": "style.css",
+    "type": "extension"
+}
