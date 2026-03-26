@@ -1,0 +1,14 @@
+/* AI人设生成器样式 */
+#ai-char-generator textarea {
+    font-family: monospace;
+    font-size: 12px;
+    background: var(--SmartThemeBlurTintColor);
+    color: var(--SmartThemeBodyColor);
+    border: 1px solid var(--SmartThemeBorderColor);
+    border-radius: 4px;
+    padding: 8px;
+}
+
+#ai-char-generator .ambient-control-row {
+    margin-bottom: 10px;
+}
