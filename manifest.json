@@ -1,0 +1,10 @@
+{
+  "name": "👾 人设生成器",
+  "version": "1.0.0",
+  "description": "AI 角色卡、用户人设、世界书、关系图谱、魔法衣橱生成工具",
+  "author": "MM-yeye",
+  "license": "MIT",
+  "type": "module",
+  "main": "index.js",
+  "css": "style.css"
+}
