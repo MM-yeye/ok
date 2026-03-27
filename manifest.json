@@ -1,0 +1,10 @@
+{
+    "name": "AI Character Generator",
+    "display_name": "AI人设生成器",
+    "version": "3.0.0",
+    "author": "你",
+    "description": "一键生成角色卡、用户人设、世界书、关系网、魔法衣橱，支持批量生成、关系图谱可视化、世界书扩展",
+    "js": "index.js",
+    "css": "",
+    "type": "extension"
+}
